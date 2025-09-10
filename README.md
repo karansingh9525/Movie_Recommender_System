@@ -81,9 +81,9 @@ Streamlit
 Dataset from Kaggle (TMDB 5000 Movie Dataset)
 
 📧 Contact
-Abhinandan Sharma
+Karan Singh
 Feel free to reach out via LinkedIn or raise an issue in this repo!
-Linkedin: https://www.linkedin.com/in/abhinandan-sharma-b1b9b5283/
+Linkedin: (https://www.linkedin.com/in/karan22096/)
 
 ---
 
